@@ -1,6 +1,6 @@
 # Terraform Jenkins CICD Pipeline
 
-## This Project can be used to Provision Infrastructure with Terraform using Jenkins.
+## This Project Can be Used to Provision Infrastructure With Terraform Using Jenkins.
 
 ## Terraform CICD Pipeline Stages
 
@@ -10,7 +10,7 @@
 - Terraform Plan.
 - Terraform Apply.
 
-### Tools and Technologies used are Git, GitHub, Terraform, Jenkins and Amazon Web Services.
+### Tools and Technologies Used are Git, GitHub, Terraform, Jenkins and Amazon Web Services.
 
 # Project Execution
 ## Git Checkout
@@ -38,4 +38,4 @@
   terraform apply
 ```
 Note:
-Infrastructure Should be Provisioned in Cloud Provider using Jenkins.
+Infrastructure Should be Provisioned in Cloud Provider Using Jenkins.
