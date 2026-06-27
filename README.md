@@ -37,5 +37,4 @@
 ```bash
   terraform apply
 ```
-### Note: 
 ### Infrastructure Should be Provisioned in Cloud Provider Using Jenkins.
