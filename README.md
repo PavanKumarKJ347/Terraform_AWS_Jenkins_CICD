@@ -15,26 +15,26 @@
 # Project Execution
 ## Git Checkout
 ```bash
-  git branch: 'main', url: 'https://github.com/DevOpsCloudAutomation/Terraform_Jenkins_CICD.git'
+  git branch: 'main', url: 'https://github.com/PavanKumarKJ347/Terraform_AWS_Jenkins_CICD.git'
 ```
 
 ## Terraform Initialization
 ```bash
-  terraform init
+  terraform init -no-color
 ```
 
 ## Terraform Validate
 ```bash
-  terraform validate
+  terraform validate -no-color
 ```
 
 ## Terraform Plan
 ```bash
-  terraform plan
+  terraform plan -no-color
 ```
 
 ## Terraform Apply
 ```bash
-  terraform apply
+  terraform apply --auto-approve -no-color
 ```
 ### Infrastructure Should be Provisioned in Cloud Provider Using Jenkins.
