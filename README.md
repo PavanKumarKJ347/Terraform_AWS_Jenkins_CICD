@@ -1,6 +1,6 @@
 # Terraform Jenkins CICD Pipeline
 
-## This Project Can be Used to Provision Infrastructure With Terraform Using Jenkins.
+## This Project Can be Used to Provision Infrastructure in Amazon Web Services With Terraform Using Jenkins.
 
 ## Terraform CICD Pipeline Stages
 
@@ -37,4 +37,4 @@
 ```bash
   terraform apply --auto-approve -no-color
 ```
-## Infrastructure Should be Provisioned in Cloud Provider Using Jenkins.
+## Infrastructure Should be Provisioned in Amazon Web Services With Terraform Using Jenkins.
